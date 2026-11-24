@@ -10,6 +10,7 @@ Repositório criado para fins de avaliação de tarefas, conteúdos e materiais 
 | Aula 05 | SEO com HTML    |  | [Aula 05 - SEO com HTML.pdf](https://github.com/user-attachments/files/35308289/Aula.05.-.SEO.com.HTML.pdf) |
 | Aula 06 | Formatação de Texto   |  | [Aula 06 - CSS_ Seletores, Cores, Tipografia e Layouts Básicos.pdf](https://github.com/user-attachments/files/35308291/Aula.06.-.CSS_.Seletores.Cores.Tipografia.e.Layouts.Basicos.pdf) |
 | Aula 07 | BoxModel, FlexBox   |  | [Aula 07 - CSS_ Box Model e Flexbox.pdf](https://github.com/user-attachments/files/35308292/Aula.07.-.CSS_.Box.Model.e.Flexbox.pdf) |
+| Aula 08 | Sintaxe, Estruturas e Variáveis | | |
 | Aula 09 |  |  |  |
 | AC2 | Projeto |  | [AC2 GRUPO D.pdf](https://github.com/user-attachments/files/35308438/AC2.GRUPO.D.pdf) |
 | Avaliação Final | Projeto Finalizado   |  | [Avaliação  Final.docx](https://github.com/user-attachments/files/35308603/Avaliacao.Final.docx) |
