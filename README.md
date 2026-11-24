@@ -13,7 +13,7 @@ Segue abaixo todo o conteúdo visto durante o semestre 📚
 | Aula 07 | BoxModel, FlexBox   |  | [Aula 07 - CSS_ Box Model e Flexbox.pdf](https://github.com/user-attachments/files/35308292/Aula.07.-.CSS_.Box.Model.e.Flexbox.pdf) |
 | Aula 08 | Sintaxe, Estruturas e Variáveis | |[Aula 08 - JS_ Sintaxe, Variáveis e Estruturas.pdf](https://github.com/user-attachments/files/35348463/Aula.08.-.JS_.Sintaxe.Variaveis.e.Estruturas.pdf)|
 | Aula 09 |  |  |  |
-| AC2 | Projeto |Mundo Bit_https://github.com/gusfngg/museu-do-bit_ | [AC2 GRUPO D.pdf](https://github.com/user-attachments/files/35308438/AC2.GRUPO.D.pdf) |
+| AC2 | Projeto |_https://github.com/gusfngg/museu-do-bit_ | [AC2 GRUPO D.pdf](https://github.com/user-attachments/files/35308438/AC2.GRUPO.D.pdf) |
 | Avaliação Final | Projeto Finalizado   |  [Avaliação  Final.docx](https://github.com/user-attachments/files/35308603/Avaliacao.Final.docx)  | [AF - Template.docx](https://github.com/user-attachments/files/35348382/AF.-.Template.docx)|
 
 
