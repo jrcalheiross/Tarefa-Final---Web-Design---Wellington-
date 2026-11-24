@@ -5,7 +5,7 @@ Repositório criado para fins de avaliação de tarefas, conteúdos e materiais 
 |:-----|------:|:------|
 | Aula 01 | Grupos || |
 | Aula 02 | Conhecimento do VS Code |  | |
-| Aula 03 | Estrutura e formatacao de texto em HTML e CSS  |  | |
+| Aula 03 | Estrutura e formatacao de texto em HTML e CSS  | Tarefa 03 | |
 | Aula 04 | Inserção de mídias   |                          | |
 | Aula 05 | SEO com HTML    |                          | |
 | Aula 06 | Formatação de Texto   |                          | |
