@@ -2,7 +2,7 @@
 Repositório criado para fins de avaliação de tarefas, conteúdos e materiais utilizados durante o segundo semestre do ano de 2026 no curso de Engenharia da Computação 
 Segue abaixo todo o conteúdo visto durante o semestre 📚
 
-| Aula 👨‍🏫 | O que foi visto? ⚙️ | Código utilizado ⌨️ | Slides 📝 |
+| Aulas 👨‍🏫 |O que foi visto? ⚙️ | Código utilizado ⌨️ | Slides 📝 |
 |:-----|------:|:------|:------|
 | Aula 01 | Grupos |  | [Aula 01 - Apresentação da Disciplina de Web Design.pdf](https://github.com/user-attachments/files/35308352/Aula.01.-.Apresentacao.da.Disciplina.de.Web.Design.pdf)|
 | Aula 02 | Conhecimento do VS Code |  | [Aula 02 - Introdução a Web Design e Controle de Versões.pdf](https://github.com/user-attachments/files/35308286/Aula.02.-.Introducao.a.Web.Design.e.Controle.de.Versoes.pdf) |
