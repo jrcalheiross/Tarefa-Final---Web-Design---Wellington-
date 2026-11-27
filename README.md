@@ -9,7 +9,7 @@ Segue abaixo todo o conteúdo visto durante o semestre 📚
 | Aula 03|Estrutura e formatacao de texto em HTML e CSS  |[AULA 03 - WELLINGTON.docx](https://github.com/user-attachments/files/35496323/AULA.03.-.WELLINGTON.docx)   | [Aula 03 - Fundamentos do HTML.pdf](https://github.com/user-attachments/files/35308252/Aula.03.-.Fundamentos.do.HTML.pdf) |
 | Aula 04 | Inserção de mídias|[AULA 04 - WELLINGTON.docx](https://github.com/user-attachments/files/35496076/AULA.04.-.WELLINGTON.docx)                                          |[Aula 04 - Mídias em HTML.pdf](https://github.com/user-attachments/files/35308610/Aula.04.-.Midias.em.HTML.pdf) |
 | Aula 05 | SEO com HTML  |[AULA 5 - WELLINGTON.docx](https://github.com/user-attachments/files/35496508/AULA.5.-.WELLINGTON.docx)  | [Aula 05 - SEO com HTML.pdf](https://github.com/user-attachments/files/35308289/Aula.05.-.SEO.com.HTML.pdf) |
-| Aula 06 | Formatação de Texto   |  | [Aula 06 - CSS_ Seletores, Cores, Tipografia e Layouts Básicos.pdf](https://github.com/user-attachments/files/35308291/Aula.06.-.CSS_.Seletores.Cores.Tipografia.e.Layouts.Basicos.pdf) |
+| Aula 06 | Formatação de Texto   |[AULA 06 - WELLINGTON.docx](https://github.com/user-attachments/files/35497270/AULA.06.-.WELLINGTON.docx)  | [Aula 06 - CSS_ Seletores, Cores, Tipografia e Layouts Básicos.pdf](https://github.com/user-attachments/files/35308291/Aula.06.-.CSS_.Seletores.Cores.Tipografia.e.Layouts.Basicos.pdf) |
 | Aula 07 | BoxModel, FlexBox   |  | [Aula 07 - CSS_ Box Model e Flexbox.pdf](https://github.com/user-attachments/files/35308292/Aula.07.-.CSS_.Box.Model.e.Flexbox.pdf) |
 | Aula 08 | Sintaxe, Estruturas e Variáveis | |[Aula 08 - JS_ Sintaxe, Variáveis e Estruturas.pdf](https://github.com/user-attachments/files/35348463/Aula.08.-.JS_.Sintaxe.Variaveis.e.Estruturas.pdf)|
 | Aula 09 |  |  |  |
@@ -17,5 +17,9 @@ Segue abaixo todo o conteúdo visto durante o semestre 📚
 | Avaliação Final | Projeto Finalizado   |  [Avaliação  Final.docx](https://github.com/user-attachments/files/35308603/Avaliacao.Final.docx)  | [AF - Template.docx](https://github.com/user-attachments/files/35348382/AF.-.Template.docx)|
 
 
-[AULA 5 - WELLINGTON.docx](https://github.com/user-attachments/files/35496508/AULA.5.-.WELLINGTON.docx)
+
+
+
+[AULA 06 - WELLINGTON.docx](https://github.com/user-attachments/files/35497270/AULA.06.-.WELLINGTON.docx)
+
 
