@@ -16,7 +16,7 @@ Segue abaixo todo o conteúdo visto durante o semestre 📚
 | AC2 | Projeto |_https://github.com/gusfngg/museu-do-bit_ | [AC2 GRUPO D.pdf](https://github.com/user-attachments/files/35308438/AC2.GRUPO.D.pdf) |
 | Avaliação Final | Projeto Finalizado   |  [Avaliação  Final.docx](https://github.com/user-attachments/files/35308603/Avaliacao.Final.docx)  | [AF - Template.docx](https://github.com/user-attachments/files/35348382/AF.-.Template.docx)|
 
-OBS: VALE RESSALTAR QUE OS CÓDIGOS NÃO SÃO IDÊNTICOS AO DO GRUPO QUE PERTENÇO, FORAM CRIADOS COM OBJETIVO DE TREINAMENTO DA MATÉRIA, COM APOIO DA INTELIGENCIA ARTIFICIAL PARA DESENVOLVIEMNTO DOS CÓDIGOS E SUPORTE QUANDO NECESSÁRIO.
+OBS: VALE RESSALTAR QUE OS CÓDIGOS NÃO SÃO IDÊNTICOS AO DO GRUPO QUE PERTENÇO, FORAM CRIADOS COM OBJETIVO DE TREINAMENTO DA MATÉRIA, COM APOIO DA INTELIGENCIA ARTIFICIAL PARA DESENVOLVIEMNTO DOS CÓDIGOS E SUPORTE QUANDO NECESSÁRIO. 🤖
 
 
 
