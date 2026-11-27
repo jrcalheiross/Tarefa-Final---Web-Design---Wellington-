@@ -4,22 +4,20 @@ Segue abaixo todo o conteúdo visto durante o semestre 📚
 
 | Aulas 👨‍🏫 |O que foi visto? ⚙️ | Código utilizado ⌨️ | Slides 📝 |
 |:-----|------:|:------|:------|
-| Aula 01 | Grupos |  | [Aula 01 - Apresentação da Disciplina de Web Design.pdf](https://github.com/user-attachments/files/35308352/Aula.01.-.Apresentacao.da.Disciplina.de.Web.Design.pdf)|
-| Aula 02 | Conhecimento do VS Code |  | [Aula 02 - Introdução a Web Design e Controle de Versões.pdf](https://github.com/user-attachments/files/35308286/Aula.02.-.Introducao.a.Web.Design.e.Controle.de.Versoes.pdf) |
+| Aula 01 | Grupos | N/E | [Aula 01 - Apresentação da Disciplina de Web Design.pdf](https://github.com/user-attachments/files/35308352/Aula.01.-.Apresentacao.da.Disciplina.de.Web.Design.pdf)|
+| Aula 02 | Conhecimento do VS Code | N/E | [Aula 02 - Introdução a Web Design e Controle de Versões.pdf](https://github.com/user-attachments/files/35308286/Aula.02.-.Introducao.a.Web.Design.e.Controle.de.Versoes.pdf) |
 | Aula 03|Estrutura e formatacao de texto em HTML e CSS  |[AULA 03 - WELLINGTON.docx](https://github.com/user-attachments/files/35496323/AULA.03.-.WELLINGTON.docx)   | [Aula 03 - Fundamentos do HTML.pdf](https://github.com/user-attachments/files/35308252/Aula.03.-.Fundamentos.do.HTML.pdf) |
 | Aula 04 | Inserção de mídias|[AULA 04 - WELLINGTON.docx](https://github.com/user-attachments/files/35496076/AULA.04.-.WELLINGTON.docx)                                          |[Aula 04 - Mídias em HTML.pdf](https://github.com/user-attachments/files/35308610/Aula.04.-.Midias.em.HTML.pdf) |
 | Aula 05 | SEO com HTML  |[AULA 5 - WELLINGTON.docx](https://github.com/user-attachments/files/35496508/AULA.5.-.WELLINGTON.docx)  | [Aula 05 - SEO com HTML.pdf](https://github.com/user-attachments/files/35308289/Aula.05.-.SEO.com.HTML.pdf) |
 | Aula 06 | Formatação de Texto   |[AULA 06 - WELLINGTON.docx](https://github.com/user-attachments/files/35497270/AULA.06.-.WELLINGTON.docx)  | [Aula 06 - CSS_ Seletores, Cores, Tipografia e Layouts Básicos.pdf](https://github.com/user-attachments/files/35308291/Aula.06.-.CSS_.Seletores.Cores.Tipografia.e.Layouts.Basicos.pdf) |
-| Aula 07 | BoxModel, FlexBox   |  | [Aula 07 - CSS_ Box Model e Flexbox.pdf](https://github.com/user-attachments/files/35308292/Aula.07.-.CSS_.Box.Model.e.Flexbox.pdf) |
-| Aula 08 | Sintaxe, Estruturas e Variáveis | |[Aula 08 - JS_ Sintaxe, Variáveis e Estruturas.pdf](https://github.com/user-attachments/files/35348463/Aula.08.-.JS_.Sintaxe.Variaveis.e.Estruturas.pdf)|
-| Aula 09 |  |  |  |
+| Aula 07 | BoxModel, FlexBox   |[AULA 07 - WELLINGTON.docx](https://github.com/user-attachments/files/35497698/AULA.07.-.WELLINGTON.docx)  | [Aula 07 - CSS_ Box Model e Flexbox.pdf](https://github.com/user-attachments/files/35308292/Aula.07.-.CSS_.Box.Model.e.Flexbox.pdf) |
+| Aula 08 | Sintaxe, Estruturas e Variáveis |[ATIVIDADE 08 - WELLINGTON.docx](https://github.com/user-attachments/files/35497860/ATIVIDADE.08.-.WELLINGTON.docx) |[Aula 08 - JS_ Sintaxe, Variáveis e Estruturas.pdf](https://github.com/user-attachments/files/35348463/Aula.08.-.JS_.Sintaxe.Variaveis.e.Estruturas.pdf)|
+| Aula 09 |N/E  | N/E |N/E  |
 | AC2 | Projeto |_https://github.com/gusfngg/museu-do-bit_ | [AC2 GRUPO D.pdf](https://github.com/user-attachments/files/35308438/AC2.GRUPO.D.pdf) |
 | Avaliação Final | Projeto Finalizado   |  [Avaliação  Final.docx](https://github.com/user-attachments/files/35308603/Avaliacao.Final.docx)  | [AF - Template.docx](https://github.com/user-attachments/files/35348382/AF.-.Template.docx)|
 
+OBS: VALE RESSALTAR QUE OS CÓDIGOS NÃO SÃO IDÊNTICOS AO DO GRUPO QUE PERTENÇO, FORAM CRIADOS COM OBJETIVO DE TREINAMENTO DA MATÉRIA, COM APOIO DA INTELIGENCIA ARTIFICIAL PARA DESENVOLVIEMNTO DOS CÓDIGOS E SUPORTE QUANDO NECESSÁRIO.
 
 
-
-
-[AULA 06 - WELLINGTON.docx](https://github.com/user-attachments/files/35497270/AULA.06.-.WELLINGTON.docx)
 
 
